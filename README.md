@@ -1,0 +1,2 @@
+# shweek
+first repositoriy
